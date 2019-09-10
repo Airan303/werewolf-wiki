@@ -1,2 +1,2 @@
-# werewolf-wiki
+# werewolf
 A werewolf wiki
